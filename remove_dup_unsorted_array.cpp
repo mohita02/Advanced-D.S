@@ -39,4 +39,5 @@ int main()
     }
     duplicates(arr,size);
     display(arr,size);
+    return size;
 }
